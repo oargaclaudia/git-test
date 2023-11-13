@@ -1,7 +1,7 @@
 # git-test
 
 "Hello GDSC!"
-Name: Claudia
-Occupation:  Student in Software Engineering at Babes-Bolyai University
-Hobby: Reading books
-Dislike: snakes
+Name: Claudia, Raul, Camelia, Bujor
+Occupation:  Student
+Hobby: School
+Dislike: CFR
